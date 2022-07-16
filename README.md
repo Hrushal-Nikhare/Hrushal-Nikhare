@@ -1,5 +1,14 @@
-### Hi there 👋
-
+# Hi there 👋
+## My website:
+### https://hrushal-nikhare.vercel.app/
+- 🔭 I’m currently working on a website for a hackathon
+- 🌱 I’m currently learning Intermediate Embedded C
+- 👯 I’m looking to collaborate on New Projects
+- 🤔 I’m looking for help with Optimising Old Projects
+- 💬 Ask me about Python
+- 📫 How to reach me: Gmail : Hrushalnikhare@gmail.com 
+- 😄 Pronouns: he
+- ⚡ Fun fact: Mostly Spends his day programming EVen during Exams 🙃
 <!--
 **Hrushal-Nikhare/Hrushal-Nikhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
