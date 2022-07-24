@@ -10,12 +10,13 @@
 
 <details>
     <summary><b><h2>✨My Website</h2></b></summary>
-    <h4>https://hrushal-nikhare.vercel.app/</h4>
+    <h3>https://hrushal-nikhare.vercel.app/</h3>
 </details>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrushal-Nikhare&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrushal-Nikhare&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Hrushal-Nikhare&show_icons=true&theme=tokyonight"/>
 <ul>
+<h3>
 <li> 🔭 I’m currently working on a website for a hackathon
 <li> 🌱 I’m currently learning Intermediate Embedded C
 <li> 👯 I’m looking to collaborate on New Projects
@@ -24,13 +25,16 @@
 <li> 📫 How to reach me: Gmail : Hrushalnikhare@gmail.com Discord : Another_Random_Eevee#7237
 <li> 😄 Pronouns: He , They , Them
 <li> ⚡ Fun fact: Mostly Spends his day programming Even during Exams 🙃
+</h3>
 </ul>
 <details>
 <summary><b><h2>To Do List:</h2></b></summary>
 <ul>
+<h3>
 <li> 📽 Projects Sub-Page On CV Website
 <li> 🌲 Natural Resources Hack-a-thon Website
 <li> 🤖 Dank Universe Bot (AKA : Adelyn)
 <li> 👨‍🎓 Studies OFC
+</h3>
 </ul>
 </details>
