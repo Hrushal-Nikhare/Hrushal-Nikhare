@@ -1,6 +1,6 @@
 <img src="header.png"/>
 
-<img src="https://media.giphy.com/media/tDJfaLVF0gHV90lxZj/giphy.gif"></img>
+<img src="https://media.giphy.com/media/8pFMDglkmmOyX775JU/giphy.gif"/>
 
 <a href="https://hashnode.com/@ShinyEevee"><img src="https://img.shields.io/badge/Hashnode-12100E?style=for-the-badge&logo=Hashnode&logoColor=white"/></a>
 
@@ -34,4 +34,3 @@
 <li> 👨‍🎓 Studies OFC
 </ul>
 </details>
-<img src="https://readme-jokes.vercel.app/api"/>
