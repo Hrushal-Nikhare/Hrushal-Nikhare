@@ -1,5 +1,4 @@
-<h1>Hi there 👋</h1>
-<h3>I am Hrushal Nikhare a 14 Year Old Programmer Who has Interests In Cycling , Tinkering and of course Programming</h3>
+<img src="header.png"/>
 
 <img src="https://media.giphy.com/media/tDJfaLVF0gHV90lxZj/giphy.gif"></img>
 
@@ -13,9 +12,9 @@
     <summary><b><h2>✨My Website</h2></b></summary>
     <h4>https://hrushal-nikhare.vercel.app/</h4>
 </details>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrushal-Nikhare&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrushal-Nikhare&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Hrushal-Nikhare&show_icons=true&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrushal-Nikhare&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrushal-Nikhare&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hrushal-Nikhare&show_icons=true&theme=tokyonight"/>
 <ul>
 <li> 🔭 I’m currently working on a website for a hackathon
 <li> 🌱 I’m currently learning Intermediate Embedded C
