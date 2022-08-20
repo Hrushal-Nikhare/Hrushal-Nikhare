@@ -17,9 +17,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hrushal-Nikhare&show_icons=true&theme=tokyonight"/>
 <ul>
 <h3>
-How to reach me: Gmail : Hrushalnikhare@gmail.com Discord : Another_Random_Eevee#7237
-Pronouns: He , They , Them
-Fun fact: Mostly Spends his day programming Even during Exams 🙃
+How to reach me: Gmail : Hrushalnikhare@gmail.com Discord : Another_Random_Eevee#7237 <br>
+Pronouns: He , They , Them<br>
+Fun fact: Mostly Spends his day programming Even during Exams 🙃<br>
 </h3>
 </ul>
 <details>
