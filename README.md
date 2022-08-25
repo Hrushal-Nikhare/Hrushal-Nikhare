@@ -33,4 +33,5 @@ Fun fact: Mostly Spends his day programming Even during Exams 🙃<br>
 </h3>
 </ul>
 </details>
+<a href="https://discord.com/users/741192494133280851"> <img src="https://lanyard.cnrad.dev/api/741192494133280851"></a>
 <img alt="Hits" src="https://hits.sh/github.com/Hrushal-Nikhare.svg?style=for-the-badge&label=Visitors&color=002233&labelColor=0066FF&logo=abstract"/>
