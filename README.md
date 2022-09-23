@@ -18,7 +18,7 @@
 <ul>
 <h3>
 How to reach me: Gmail : Hrushalnikhare@gmail.com Discord : Another_Random_Eevee#7237 <br>
-Pronouns: He , They , Them<br>
+Pronouns: He<br>
 Fun fact: Mostly Spends his day programming Even during Exams 🙃<br>
 </h3>
 </ul>
