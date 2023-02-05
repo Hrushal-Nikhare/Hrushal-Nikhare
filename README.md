@@ -6,7 +6,8 @@
 
 <a href="https://www.linkedin.com/in/hrushal-nikhare-59255223b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
 
-<a href="https://open.spotify.com/user/um092cahxmowdzqld3lmywcdp"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/um092cahxmowdzqld3lmywcdp">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrushal-Nikhare&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrushal-Nikhare&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Hrushal-Nikhare&show_icons=true&theme=tokyonight"/>
