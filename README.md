@@ -1,7 +1,5 @@
 <img src="header.png"/>
 
-<img src="https://media.giphy.com/media/8pFMDglkmmOyX775JU/giphy.gif"/>
-
 <a href="https://hashnode.com/@ShinyEevee"><img src="https://img.shields.io/badge/Hashnode-12100E?style=for-the-badge&logo=Hashnode&logoColor=white"/></a>
 
 <a href="https://www.linkedin.com/in/hrushal-nikhare-59255223b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
